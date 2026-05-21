@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Ayush Bhosale
 
-<!--
-**Ayush-proj/Ayush-proj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- Computer Science Student
+- MERN Stack Developer
+- Learning AI & Full Stack Development
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- React.js
+- Node.js
+- MongoDB
+- Express.js
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Goals
+- Build strong projects
+- Crack internships
+- Improve DSA & Development
+
+## 🌱 Currently Working On
+MentorConnect - Mentorship Platform
