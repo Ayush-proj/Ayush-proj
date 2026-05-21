@@ -1,23 +1,34 @@
 <h1 align="center">Hi 👋, I'm Ayush Bhosale</h1>
-<h3 align="center">Aspiring Data Analyst | Python Developer | SQL Enthusiast | Power BI Learner</h3>
+
+<h3 align="center">
+Aspiring Data Analyst • Python Developer • SQL Enthusiast • Power BI Learner
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analyst+in+Progress...;Python+%7C+SQL+%7C+Power+BI;Building+Projects+with+Real+World+Data;Turning+Data+into+Insights+📊" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI;Building+Real+World+Analytics+Projects;Turning+Data+into+Business+Insights+🚀" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ayush-proj&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Ayush-proj?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/Ayush-proj?label=Stars&style=for-the-badge&color=yellow" />
+</p>
 
-## 🚀 About Me
+---
 
-- 🎓 B.Tech CSE (Business Systems) Student
-- 📊 Passionate about Data Analytics & Business Intelligence
-- 💡 Skilled in Python, SQL, Power BI & Exploratory Data Analysis
-- 🌱 Currently learning Machine Learning & Advanced Analytics
-- 🏆 Building real-world data-driven projects
-- 🎯 Goal: Become a top Data Analyst & crack great internships
-- ⚡ Love solving real-world business problems using data
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+# 🚀 About Me
+
+🎓 B.Tech CSE (Business Systems) Student  
+📊 Passionate about Data Analytics & Business Intelligence  
+💡 Skilled in Python, SQL, Power BI & EDA  
+🌱 Currently learning Machine Learning & Advanced Analytics  
+🏆 Building real-world analytics projects using large datasets  
+⚡ Love solving business problems using data-driven approaches  
+🎯 Goal: Become a top-tier Data Analyst & Software Engineer  
 
 ---
 
@@ -25,19 +36,19 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
 </a>
 
 <a href="https://github.com/Ayush-proj" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
+<img src="https://skillicons.dev/icons?i=github" width="50" />
 </a>
 
 <a href="https://leetcode.com/YOUR-LEETCODE" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40" />
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="50" />
 </a>
 
 <a href="https://your-portfolio-link.com" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="40" width="40" />
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="50" />
 </a>
 </p>
 
@@ -46,22 +57,38 @@
 # 💻 Tech Stack
 
 ## 👨‍💻 Languages
-<p>
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
+---
+
 ## 📊 Data Analytics & Visualization
-<p>
-<img src="https://skillicons.dev/icons?i=excel" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
 </p>
 
+---
+
 ## ⚙️ Tools & Platforms
-<p>
+
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
@@ -70,27 +97,33 @@
 # 📈 Featured Projects
 
 ## 📌 Vendor Performance Analysis & Sales Insights
-🔹 Cleaned and analyzed **15,000+ retail sales & supplier records** using Python & Pandas  
-🔹 Used SQL JOINs and aggregations to uncover **12% margin leakage**  
-🔹 Built interactive Power BI dashboards for regional sales insights  
+
+🔹 Cleaned and merged **15,000+ retail sales records** using Python & Pandas  
+🔹 Used SQL queries and JOINs to identify **12% profit margin leakage**  
+🔹 Built interactive Power BI dashboards for supplier performance tracking  
+🔹 Generated actionable insights for inventory optimization  
 
 ---
 
 ## 📌 Supply Chain & Delivery Performance Analytics
+
 🔹 Processed **40,000+ logistics records** using Pandas  
-🔹 Identified **54.7% shipping delay rate** through EDA  
-🔹 Built Random Forest ML model with **74% prediction accuracy**  
+🔹 Conducted EDA to identify **54.7% shipping delay rate**  
+🔹 Built ML prediction model using Random Forest Classifier  
+🔹 Achieved **74% accuracy** for delivery risk prediction  
 
 ---
 
 ## 📌 E-Commerce Customer Behavior Analytics
-🔹 Performed demographic segmentation using SQL  
-🔹 Analyzed customer spending patterns & promo code impact  
-🔹 Created visual reports using Matplotlib for business insights  
+
+🔹 Performed customer segmentation using SQL & Python  
+🔹 Analyzed promo-code impacts on consumer spending  
+🔹 Built insightful visualizations using Matplotlib  
+🔹 Generated reports for strategic business decisions  
 
 ---
 
-# 📜 Certifications
+# 🏆 Certifications
 
 🏅 SQL Intermediate – HackerRank  
 🏅 AICTE & EduSkills Full Stack Developer Internship  
@@ -98,37 +131,60 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ayush-proj&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-proj&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush-proj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-proj&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Streak Stats
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Ayush-proj&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Ayush-proj&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ayush-proj&theme=tokyonight&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-proj&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 🏅 GitHub Trophies
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush-proj&theme=tokyo-night)](https://github.com/Ayush-proj)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ayush-proj&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# ⚡ Coding Profiles
+
+<p align="left">
+
+<a href="https://github.com/Ayush-proj">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/YOUR-LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -140,9 +196,20 @@
 - Python
 - SQL
 - Power BI
+- Machine Learning
 - Data Analytics
-- Exploratory Data Analysis
+- EDA
 
 ---
 
-<h3 align="center">⚡ "Data tells stories. Analytics creates impact." ⚡</h3>
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+---
+
+<h3 align="center">
+⚡ "Turning raw data into meaningful insights that drive decisions." ⚡
+</h3>
